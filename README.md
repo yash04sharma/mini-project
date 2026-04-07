@@ -1,4 +1,4 @@
 # mini-project
 first repo <br>
 
-Director : yash
+Director : yash sharma
